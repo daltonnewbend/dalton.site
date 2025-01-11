@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "critical.css",
-	"sourceRoot": "/home/anser/Documents/sites/sandbox/sandbox.newbend.xyz",
+	"sourceRoot": "/home/anser/Documents/sites/dalton/sandbox.newbend.xyz",
 	"sources": [
 		"themes/bridget/assets/scss/critical.scss",
 		"themes/bridget/assets/scss/_core/_reset.scss",
