@@ -3,8 +3,8 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
             <loc>http://dalton.newbend.art/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://dalton.newbend.art/about/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://dalton.newbend.art/anthologies/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://dalton.newbend.art/contact/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://dalton.newbend.art/shrines-of-the-maker/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://dalton.newbend.art/studio-drop/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://dalton.newbend.art/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>

@@ -8,20 +8,21 @@
     <language>en-us</language><atom:link href="http://dalton.newbend.art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>http://dalton.newbend.art/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dalton.newbend.art/about/</guid>
+      <description>Dalton Newbend is an artist from Dexter, GA. They received their BFA in Studio Art and minor in Art History from Columbus State University in 2020. They were also a 2019 fellow at Mildred’s Lane. 
+daltonnewbend@proton.me instagram@daltonnewbend.art</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://dalton.newbend.art/anthologies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://dalton.newbend.art/anthologies/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://dalton.newbend.art/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://dalton.newbend.art/contact/</guid>
-      <description>daltonnewbend@proton.me instagram@daltonnewbend.art </description>
     </item>
     
     <item>
